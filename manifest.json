@@ -1,13 +1,23 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Zar Chi Lin Resume",
-  "orientation": "any",
-  "scope": "/assignment-/",
   "short_name": "Zar Chi Resume",
-  "start_url": "/assignment-/",
-  "theme_color": "#ffffff",
+  "description": "Zar Chi Lin personal resume and web assignments",
   "id": "/assignment-/",
-  "description": "Zar Chi Lin personal resume and web assignments"
+  "start_url": "/assignment-/",
+  "scope": "/assignment-/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
