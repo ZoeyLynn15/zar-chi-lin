@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Zar Chi Lin Resume",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/assignment-/",
   "short_name": "Zar Chi Resume",
-  "start_url": "/",
+  "start_url": "/assignment-/",
   "theme_color": "#ffffff",
   "id": "/assignment-/",
   "description": "Zar Chi Lin personal resume and web assignments"
