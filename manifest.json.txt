@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Zar Chi Lin Resume",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Zar Chi Resume",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/assignment-/",
+  "description": "Zar Chi Lin personal resume and web assignments"
+}
